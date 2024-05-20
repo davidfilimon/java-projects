@@ -1,0 +1,24 @@
+	1	2	3	4	5	
+1	[B]	[A, C]	[A, C]	[B]	[A, C]	
+2	[A, S, S(BC)]	[B]	[S, C, S(AB)]	[A, S, S(BC)]	
+3	0	[B]	[B]	
+4	0	[A, S, C, S(AB), S(BC)]	
+5	[A, S, C, S(BC), S(AB)]	
+
+
+Subsirurile:
+B (baaba)	
+A (baaba)	C (baaba)	
+A (baaba)	C (baaba)	
+B (baaba)	
+A (baaba)	C (baaba)	
+A (baaba)	S (baaba)	S(BC) (baaba)	
+B (baaba)	
+S (baaba)	C (baaba)	S(AB) (baaba)	
+A (baaba)	S (baaba)	S(BC) (baaba)	
+0	
+B (baaba)	
+B (baaba)	
+0	
+A (baaba)	S (baaba)	C (baaba)	S(AB) (baaba)	S(BC) (baaba)	
+A (baaba)	S (baaba)	C (baaba)	S(BC) (baaba)	S(AB) (baaba)	

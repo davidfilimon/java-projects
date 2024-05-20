@@ -1,0 +1,6 @@
+	1	2	3	4	5	
+1	[B]	[A, C]	[A, C]	[B]	[A, C]	
+2	[A, S, S(BC)]	[B]	[S, C, S(AB)]	[A, S, S(BC)]	
+3	0	[B]	[B]	
+4	0	[A, S, C, S(AB), S(BC)]	
+5	[A, S, C, S(BC), S(AB)]	
